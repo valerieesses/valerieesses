@@ -102,7 +102,13 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-
+*{
+  font-family: 'Source Code Pro', monospace;
+font-family: 'Roboto Slab', serif;
+font-family: 'VT323', monospace;
+font-family: 'Share Tech Mono', monospace;
+font-family: 'Cousine', monospace;
+}
 
 
 
