@@ -102,15 +102,12 @@ textarea {
    Author's custom styles
    ========================================================================== */
 .custom-font-heading{
-*{
   font-family: 'Source Code Pro', monospace;
 }
 
-ont-family: 'Roboto Slab', serif;
-font-family: 'Share Tech Mono', monospace;
-font-family: 'Cousine', monospace;
-
-.custom-font-copy{font-family: 'VT323', monospace;}
+.custom-font-copy{
+  font-family: 'VT323', monospace;
+}
 
 
 
