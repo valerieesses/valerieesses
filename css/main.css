@@ -109,6 +109,11 @@ textarea {
 font-family: 'Source Code Pro', monospace;
 }
 
+img{
+  width:100%;
+  max-width: 100%;
+}
+
 
 
 
